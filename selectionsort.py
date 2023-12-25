@@ -11,7 +11,7 @@ def  swap(arr,min_index,i):
     t=arr[min_index]
     arr[min_index]=arr[i]
     arr[i]=t
-    #return arr
+    
 
 
 print (" SelectionSort using Python")
